@@ -1,0 +1,77 @@
+body{
+	padding:0;
+	margin:0;
+}
+
+img{
+	position:absolute;
+}
+
+.arrow1{
+	left:642px;
+	top: 333px;
+}
+
+.text1{
+	left:10px;
+	top:344px;	
+}
+
+.flowers1{
+	left:438px;
+	top:203px;
+}
+
+.player{
+	position:absolute;
+	left:250px;
+	top:50px;
+	opacity:35%;
+}
+
+.text2{
+	left:58px;
+	top:319px;
+}
+
+.Book{
+	left:88px;
+	top:75px;
+}
+
+.Food{
+	left: 349px;
+	top:75px;
+}
+
+.BDay{
+	left:560px;
+	top:71px;
+}
+
+.screen{
+	left:253px;
+	top:149px;
+	opacity:0;
+	transition: opacity 0.15s;
+}
+
+.screen:hover{
+	opacity:1;
+}
+
+.text3{
+	left:57px;
+	top:349px;
+}
+
+.text4{
+	left:13px;
+	top:53px;
+	opacity:0;
+	transition :opacity 5s;
+}
+
+.text4:hover{
+	opacity:1;
+}
